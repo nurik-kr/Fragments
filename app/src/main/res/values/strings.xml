@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fragmenty14</string>
+    <string name="add_fragment">Add Fragment</string>
+    <string name="replace">REPLACE</string>
+    <string name="remove">Remove</string>
+</resources>
